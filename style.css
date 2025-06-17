@@ -1,0 +1,43 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #fdf6f0;
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+h1 {
+  color: #6b1a8a;
+  font-size: 2.2em;
+}
+
+h2 {
+  color: #444;
+  margin-top: 10px;
+}
+
+p {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+}
+
+label, select {
+  display: block;
+  margin-top: 15px;
+  font-size: 1em;
+}
+
+select {
+  padding: 10px;
+  width: 100%;
+  max-width: 300px;
+}
